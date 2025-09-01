@@ -6,6 +6,7 @@ import Button from './Components/Button'
 import CounterButton from './Components/CounterButton'
 import Input from './Components/Input'
 import TaskManager from './Components/TaskManager'
+import CheckLogin from './Components/CheckLogin'
 
 
 function App() {
@@ -24,9 +25,12 @@ function App() {
         <h2>Evento onChange</h2>
         <Input/>
       </div>*/}
-      <div className='event'>
+      {/*<div className='event'>
         <h2>Passando argumentos para eventos</h2>
         <TaskManager/>
+      </div>*/}
+      <div className='event'>
+        <CheckLogin/>
       </div>
     </>
   )
