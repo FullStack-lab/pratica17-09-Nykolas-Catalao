@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+.onClick_event {
+  background-color: mediumaquamarine;
+  padding: 10px;
+  border-radius: 15px;
+}
+.onClick_event h2 {
+  color: rgb(55, 54, 54);
+}
