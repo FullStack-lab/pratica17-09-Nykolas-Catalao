@@ -41,11 +41,12 @@
   color: #888;
 }
 
-.onClick_event {
+.event {
   background-color: mediumaquamarine;
   padding: 10px;
+  margin-top: 10px;
   border-radius: 15px;
 }
-.onClick_event h2 {
+.event h2 {
   color: rgb(55, 54, 54);
 }
